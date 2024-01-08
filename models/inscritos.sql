@@ -1,0 +1,1 @@
+SELECT * FROM `abiding-window-366512.schema.inscritos` 
